@@ -21,7 +21,6 @@ var CanvasApp = function () {
                                     'content': 'data(name)',
 
                                     // background-image is needed to display svg image for node
-                                    // 'background-image': 'file.svg',
                                     'background-image': 'glucose.svg',
 
                                     // 'background-image': 'http://png-4.findicons.com/files/icons/2015/24x24_free_application/24/text.png',
