@@ -23,9 +23,6 @@ var CanvasApp = function () {
                                     // background-image is needed to display svg image for node
                                     'background-image': 'glucose.svg',
 
-                                    // 'background-image': 'http://png-4.findicons.com/files/icons/2015/24x24_free_application/24/text.png',
-
-
                                     // shape is needed to give svg image for node a background area that will clip the image if the default of a circle is used.
                                     'shape': 'rectangle',
 
@@ -33,7 +30,6 @@ var CanvasApp = function () {
                                     // Without height and width, size of image is incorrect.
                                     'height': '51px',
                                     'width': '41px',
-
 
                                     // background-opacity is needed to hide the background shape the svg image is layered upon
                                     'background-opacity' : '0'
