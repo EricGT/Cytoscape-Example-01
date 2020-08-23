@@ -1,0 +1,11 @@
+/* Styles go here */
+
+body {
+  font-family: helvetica;
+  font-size: 14px;
+}
+#cy {
+  width: 600px; 
+  height: 600px;
+  border: 1px solid #888;
+}
