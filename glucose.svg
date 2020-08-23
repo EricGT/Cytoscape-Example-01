@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="drawing.svg"> -->
-<!-- height and width work with unit of measure pt and not mm -->
+<!-- height and width work with unit of measure px and not mm -->
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
