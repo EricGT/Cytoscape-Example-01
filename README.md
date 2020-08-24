@@ -1,4 +1,4 @@
-# Cytoscape-Node-with-SVG-background
+# Cytoscape Exmaple 01
 Demonstrates an example of a Cytoscape.js node with an SVG background that works with Microsoft Edge, Google Chrome and FireFox.
 
 The following two examples were helful in creating this
